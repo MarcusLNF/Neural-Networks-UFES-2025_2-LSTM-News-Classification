@@ -1,4 +1,4 @@
-# Neural Networks | UFES-2026/2 | LSTM: News Classification
+# Neural Networks | UFES-2025/2 | LSTM: News Classification
 
 # News Classification with LSTM Networks
 
